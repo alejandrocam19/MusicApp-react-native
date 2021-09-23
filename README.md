@@ -7,10 +7,7 @@ A mobile application built using React Native
 </p>
 
 ## Reanimated V2
-> Due to performance issues, this example has been rewritten using [React Native Reanimated V2](https://github.com/software-mansion/react-native-reanimated) You can check this branch for [Animated API](https://github.com/m-inan/react-native-music-app/tree/animated_api).
-
-## Track Player
-> [React Native Track Player](https://github.com/react-native-kit/react-native-track-player) package is used for this example. However, since the release version does not have "Shuffle" and "Repeat" features, [this](https://github.com/m-inan/react-native-track-player) repository is used.
+> Due to performance issues, this example has been rewritten using [React Native Reanimated V2]
 
 ## Features
 
@@ -25,8 +22,8 @@ You have to put sounds and pictures in correct positions in the data. and you ca
 
 #### Download
 ```console
-git clone https://github.com/m-inan/react-native-music-app
-cd react-native-music-app
+git clone git@github.com:alejandrocam19/MusicApp-react-native.git
+cd MusicApp-react-native
 ```
 
 #### Install dependencies
